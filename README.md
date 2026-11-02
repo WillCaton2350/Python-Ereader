@@ -5,7 +5,7 @@ Features
 - E-reader — Open a selected book document from the collection and navigate between available books.
 - Search — Find books by title.
 - Pagination — Display book collections in manageable pages.
-- Reviews — Rate books and save written reviews.
+- Reviews — Rate books and save written reviews. (WIP)
 - Reading-status tracking — Organize books into:
   - Currently Reading
   - Finished Books
